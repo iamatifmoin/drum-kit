@@ -1,5 +1,5 @@
 
-# drum
+# drum-kit
 play <b>drums</b> with your keyboard using this app.
 <br>
 <br>
